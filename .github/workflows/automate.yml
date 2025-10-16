@@ -1,0 +1,35 @@
+name: Run Automation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+  
+concurrency:
+  group: automate
+
+permissions:
+  contents: write
+  packages: write
+
+jobs:
+  automate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        name: Checkout files
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - id: automation
+        name: Run automation
+        run: ./gen_readme.sh
+
+      - uses: actions-js/push@master
+        name: Commit & Push changes
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "ci: generate"
+          
