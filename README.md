@@ -14,7 +14,7 @@ you can use it for connect oidc\
 | `us-west-2` | `27d17a27ca2cb41421dc3be46e4d25ee24cbabd1` |
 | `ap-south-1` | `6f4c138f25d854e1a619a34967d7448eecc899f8` |
 | `ap-northeast-1` | `7a3d3ebe6cf93be8b528f05d0a58ac5ea82dc0e8` |
-| `ap-northeast-2` | `1bbb4ba787ef7707f4ecbc612587ec28805cffc4` |
+| `ap-northeast-2` | `b5ff9c677325645101f7c5b456c6bfdb3c037425` |
 | `ap-northeast-3` | `432c462c498f5d9801a096668b3a1137652468a2` |
 | `ap-southeast-1` | `2cc380c4be32efeef6453450930a8b2d392568f9` |
 | `ap-southeast-2` | `a967fed195c20d049e89342111ae419bdf8c5a14` |
