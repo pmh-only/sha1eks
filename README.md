@@ -8,7 +8,7 @@ you can use it for connect oidc\
 
 | `region` | `SHA1SUM_OF_TLS_CERTIFICATE` |
 |:--------:|:-----------------------------|
-| `us-east-1` | `d7d10ac1fd7e87f1a3787a9a8be9b0f8538ec059` |
+| `us-east-1` | `37647fee5fc063960139521aa2400c75db27825b` |
 | `us-east-2` | `e8098c708e7e2088ee8b1c903dd954d9a49a6cdc` |
 | `us-west-1` | `8bbe357b972ab97f2acef9dab0c9e629aca6b2ad` |
 | `us-west-2` | `27d17a27ca2cb41421dc3be46e4d25ee24cbabd1` |
