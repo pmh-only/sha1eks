@@ -15,16 +15,16 @@ you can use it for connect oidc\
 | `ap-south-1` | `9540116bb56e8ea19f0b4a08e845a17f827c131e` |
 | `ap-northeast-1` | `7a3d3ebe6cf93be8b528f05d0a58ac5ea82dc0e8` |
 | `ap-northeast-2` | `b5ff9c677325645101f7c5b456c6bfdb3c037425` |
-| `ap-northeast-3` | `432c462c498f5d9801a096668b3a1137652468a2` |
+| `ap-northeast-3` | `e4e65c07cbf4788e4e61cd27ad002441f94713b3` |
 | `ap-southeast-1` | `2cc380c4be32efeef6453450930a8b2d392568f9` |
 | `ap-southeast-2` | `a967fed195c20d049e89342111ae419bdf8c5a14` |
 | `ca-central-1` | `225066696a702e0de6d94351f1499083c0da8354` |
-| `eu-central-1` | `c3c07e30211ff224dc6db2086d7bbaa42929a81e` |
-| `eu-west-1` | `1e5f0e548dadf9e218394c904e5e8b04e91f782e` |
-| `eu-west-2` | `9113c492911635f730e51f259f28873df5b7f01a` |
+| `eu-central-1` | `19ad2e462c50e774b5c5703380bef4eb49c62767` |
+| `eu-west-1` | `8de95dee5dfc5266e4ffe1626e2105e1acc61c78` |
+| `eu-west-2` | `feb55add7a05e253cac6f0ec720079fbd861167c` |
 | `eu-west-3` | `77da797900ecea70e23e36af3a31a11bf8426141` |
 | `eu-north-1` | `5fe6b8be716e56db533d1ac20468e0d14ae327ca` |
-| `sa-east-1` | `48e753a2b6c36c726b2fdb4bf44dc707cef069c7` |
+| `sa-east-1` | `23c5a278af0c9c2fcf1b8f6648fdf630cc681ef4` |
 <!-- REPLACE HERE END -->
 
 free to use :)
