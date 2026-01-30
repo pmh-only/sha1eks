@@ -13,7 +13,7 @@ you can use it for connect oidc\
 | `us-west-1` | `8bbe357b972ab97f2acef9dab0c9e629aca6b2ad` |
 | `us-west-2` | `27d17a27ca2cb41421dc3be46e4d25ee24cbabd1` |
 | `ap-south-1` | `9540116bb56e8ea19f0b4a08e845a17f827c131e` |
-| `ap-northeast-1` | `7a3d3ebe6cf93be8b528f05d0a58ac5ea82dc0e8` |
+| `ap-northeast-1` | `f679567501c034e7ee0cc58132fdefbecafb4017` |
 | `ap-northeast-2` | `b5ff9c677325645101f7c5b456c6bfdb3c037425` |
 | `ap-northeast-3` | `e4e65c07cbf4788e4e61cd27ad002441f94713b3` |
 | `ap-southeast-1` | `2cc380c4be32efeef6453450930a8b2d392568f9` |
